@@ -1,16 +1,20 @@
-## Hi there 👋
+## こんにちは<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😸</font></font>
+## About me
+- 日本人です。
+- データ分析・効率化を本業に目指している事務です。
 
-<!--
-**neko-rr/neko-rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill
+### Programming Languages
+![](https://skillicons.dev/icons?i=python,sql)
+### Software and Tools
+![](https://skillicons.dev/icons?i=github,git)
+### Frameworks and Libraries
+![](https://skillicons.dev/icons?i=pytorch,sklearn)
+### Other
+![](https://skillicons.dev/icons?i=autocad,ai,wordpress)
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neko-rr&show_icons=true&theme=dark" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=neko-rr&show_icons=true&locale=en&theme=chartreuse-dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [kaglleアカウント](https://www.kaggle.com/kazeneko77)
