@@ -14,7 +14,7 @@
 ![](https://skillicons.dev/icons?i=autocad,ai,wordpress)
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neko-rr&show_icons=true&theme=dark" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=neko-rr&show_icons=true&locale=en&theme=chartreuse-dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neko-rr&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=neko-rr&show_icons=true&locale=en&theme=chartreuse-dark" />
 
 ### [kaglleアカウント](https://www.kaggle.com/kazeneko77)
